@@ -1,0 +1,107 @@
+#center
+{
+    display: inline-block;
+    padding-top: 20px;
+    font-size: 18pt;
+    color: white;
+    width: 60%;
+}
+#hobby
+{
+   clear: both;
+    
+}
+
+.tab
+{
+    border-collapse: collapse;
+    text-align: center;
+    min-width: 700px;
+    margin: 22px;
+    border-bottom: 1px solid springgreen;
+    border-top: 1px solid springgreen;
+    
+}
+
+
+.img1
+{
+    border-radius: 100px 100px 100px 100px;
+    border: 3px dashed blanchedalmond;
+}
+
+.img2
+{
+    border-radius: 0px 200px 200px 200px;
+    border: solid blue;
+}
+
+.img3
+{
+    border-radius: 50%;
+    border: double springgreen;
+}
+
+.img4
+{
+    border-radius: 100px 100px 100px 100px;
+    border: 3px dotted red;
+}
+
+#quot
+{
+    font-style: italic;
+    font-family: Lucida Grande;
+    font-size: 20pt;
+}
+#inner_left
+{
+    float: left;
+}
+#inner_right
+{
+    float: right;   
+}
+
+
+#left {
+    padding-top: 55px;
+    font-size: 14pt;
+    color: white;
+    text-decoration: none;
+    float: left;
+    width: 20%;
+}
+
+#right {
+    padding-top: 12px;
+    font-size: 14pt;
+    float: right;
+    width: 20%;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+
+}
+
+#common
+{
+    color: crimson;
+}
+#sec1
+{
+    color: crimson;
+    text-decoration: none;
+    float: right;
+    clear: both;
+    padding-top: 5ch;
+}
+#sec2
+{
+    color: crimson;
+    text-decoration: none;
+    float: right;
+    clear: both;
+}

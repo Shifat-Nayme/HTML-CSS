@@ -1,0 +1,91 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+
+}
+.Menu-bar{
+	min-height: 8%;
+	background: #497ece;
+}
+.Menu-bar img{
+	width: 69px;
+}
+.nav-link{
+	color: white;
+}
+.nav-link:hover
+{
+	color: black;
+}
+.active{
+	color: black;
+}
+
+.navbar-toggler{
+	outline: none;
+}
+.banner{
+	min-height: 69%;
+	min-width: 100%;
+	color: rgb(216, 173, 173);
+	background-color: #363120;
+}
+.banner img
+{
+	width: 96%;
+	border-radius: 80%;
+	
+}
+.Info{
+	margin: 15% auto;
+}
+.Info h1
+{
+	font-size: 20px;
+}
+.Info a{
+	width: 135px;
+	color: #fff !important;
+	text-decoration: none !important;
+	padding: 15px 25px;
+	margin: 5% 10px;
+	background: #6e440db2;
+	display: inline-block;
+}
+
+
+.footer-widget
+{
+	min-height: 15%;
+	background-image: linear-gradient(to right, #9c8665, #31210841);
+	padding: 5px 100%;
+	display: inline-flex; 
+   
+}
+.footer-text
+{
+	padding: 25px;
+}
+.footer-widget .fa
+{
+	font-size: 25px;
+}
+.row{
+	margin: 0 !important;
+}
+.social-icons
+{
+	margin: 0 20px;
+}
+.social-icons .fa
+{
+	padding: 5px;
+}
+@media only screen and (max-width: 960px)
+{
+	.footer-widget
+	{
+		background-image: linear-gradient(#72501d, #ce8d2c);
+	}
+}
